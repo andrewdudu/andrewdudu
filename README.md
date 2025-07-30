@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Working for [Blibli.com](https://blibli.com) as a Backend Engineer
+- 🔭 Working for [GoTo Financial](https://www.gotocompany.com/en/products/goto-financial) as a Backend Engineer
 - Learning and interested in Go
 - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/andrew-wijaya) 
 
